@@ -16,9 +16,8 @@ export const metadata: Metadata = {
   },
   description: 'icl ts pmo.',
   openGraph: {
-    title: 'Our Portfolio',
-    description: 'This is our portfolio.',
-    siteName: 'Our Portfolio',
+    title: 'Goofy aah website',
+    description: 'Portfolio aah mhf.',
     locale: 'en_US',
     type: 'website',
   },

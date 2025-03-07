@@ -10,11 +10,11 @@ export default function Page() {
         <br />
         {`Members:`}
         <br />
-        {`Gales, Chersan L. - Frontend Developer`}
+        {`Gales, Chersan L. - POGI`}
         <br />
-        {`Padla, Jacqueline Zoe - Gwapa lang`}
+        {`Padla, Jacqueline Zoe - POGI`}
         <br />
-        {`Saligumba, Dandy N. - Gwapo lang`}
+        {`Saligumba, Dandy N. - POGI`}
       </p>
     </section>
   )
