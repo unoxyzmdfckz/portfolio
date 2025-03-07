@@ -9,7 +9,7 @@ export default function Page() {
             Our live website
           </h1>
           <p className="mb-4">
-            {`Welcome to our live server. This is a live website that is built with Blitz.js. It's a fullstack React framework that is built on top of Next.js.`}
+            {`Welcome to our live server. This is a live website that is built with Blitz.js; A fullstack React framework that is built on top of Next.js.`}
             <br />
             <br />
             {`Members:`}
