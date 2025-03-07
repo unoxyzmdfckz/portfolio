@@ -7,7 +7,14 @@ export default function Page() {
       <p className="mb-4">
         {`Welcome to our live server. This is a live website that is built with Blitz.js. It's a fullstack React framework that is built on top of Next.js.`}
         <br />
-        {`Members: Gales, Chersan L., Padla, Jacqueline Zoe, and Saligumba, Dandy N.`}
+        <br />
+        {`Members:`}
+        <br />
+        {`Gales, Chersan L. - Frontend Developer`}
+        <br />
+        {`Padla, Jacqueline Zoe - Gwapa lang`}
+        <br />
+        {`Saligumba, Dandy N. - Gwapo lang`}
       </p>
     </section>
   )
