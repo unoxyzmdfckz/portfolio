@@ -14,11 +14,11 @@ export default function Page() {
             <br />
             {`Members:`}
             <br />
-            {`Gales, Chersan L. - POGI (Builder)`}
+            {`Gales, Chersan L. - 👳🏾‍♂️ (Builder)`}
             <br />
-            {`Padla, Jacqueline Zoe - POGI`}
+            {`Padla, Jacqueline Zoe - 👧🏼`}
             <br />
-            {`Saligumba, Dandy N. - POGI`}
+            {`Saligumba, Dandy N. - 👱🏻‍♂️`}
           </p>
         </section>
       </Card>
