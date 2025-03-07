@@ -2,7 +2,7 @@ import Card from './components/Card';
 
 export default function Page() {
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 flex justify-center items-center min-h-screen">
       <Card>
         <section>
           <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
@@ -14,7 +14,7 @@ export default function Page() {
             <br />
             {`Members:`}
             <br />
-            {`Gales, Chersan L. - POGI`}
+            {`Gales, Chersan L. - POGI (Frontend)`}
             <br />
             {`Padla, Jacqueline Zoe - POGI`}
             <br />
